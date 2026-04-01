@@ -21,3 +21,19 @@ The objective is to build a model that can accurately identify fraud while minim
 ---
 
 ## 📂 Project Structure
+
+ml-fraud-detection-system/
+│
+├── api/                # FastAPI app for inference
+├── configs/            # Configuration files
+├── data/               # Raw and processed data
+├── notebooks/          # EDA and experiments
+├── pipelines/          # Training pipelines
+├── src/                # Core ML code
+│   ├── data/           # Data loading & preprocessing
+│   ├── features/       # Feature engineering
+│   ├── models/         # Training & prediction
+│   └── utils/          # Utilities
+├── tests/              # Unit tests
+├── README.md
+├── requirements.txt
