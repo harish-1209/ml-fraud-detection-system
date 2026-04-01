@@ -22,9 +22,6 @@ The objective is to build a model that can accurately identify fraud while minim
 
 ## 📂 Project Structure
 
-
-
-
 ml-fraud-detection-system/
 │
 ├── api/                # FastAPI app for inference
@@ -40,3 +37,5 @@ ml-fraud-detection-system/
 ├── tests/              # Unit tests
 ├── README.md
 ├── requirements.txt
+
+
