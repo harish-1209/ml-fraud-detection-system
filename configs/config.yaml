@@ -1,0 +1,5 @@
+data:
+  train_path: data/raw/fraudTrain.csv
+  test_path: data/raw/fraudTest.csv
+  target_column: is_fraud
+  
