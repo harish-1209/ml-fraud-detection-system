@@ -39,6 +39,3 @@ ml-fraud-detection-system/
 ├── requirements.txt
 
 
-git add .
-git commit -m "add professional README"
-git push origin main
