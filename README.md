@@ -37,3 +37,8 @@ ml-fraud-detection-system/
 ├── tests/              # Unit tests
 ├── README.md
 ├── requirements.txt
+
+
+git add .
+git commit -m "add professional README"
+git push origin main
